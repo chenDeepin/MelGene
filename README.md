@@ -19,24 +19,17 @@
    conda activate melgene_env
    ```
 
-3. **Install Additional Packages (if needed):**
-   If you need to install additional packages, you can do so using:
-
-   ```bash
-   conda install <package_name>
-   ```
-
-   Or, if the package is not available in Conda, use `pip`:
-
-   ```bash
-   pip install <package_name>
-   ```
-
-4. **Deactivate the Environment:**
-   When you’re done, deactivate the environment using:
-
-   ```bash
-   conda deactivate
-   ```
-
 ---
+
+
+### **Steps to have fun with this package:**
+
+1. **Run main.py:**
+
+   ```bash
+   python main.py
+   ```
+2. **Input gene data**
+
+
+3. **Input music type (choices: pop, classical, r&b, jazz, electronic, rock, blues)**
