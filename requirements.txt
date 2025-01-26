@@ -1,0 +1,5 @@
+# Core dependencies
+#python==3.9.21  # Specify your Python version
+mido==1.2.10  # MIDI library for playing and saving music
+numpy==1.23.5  # For numerical operations (if needed)
+python-rtmidi==1.5.8  # For MIDI I/O
