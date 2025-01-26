@@ -40,11 +40,3 @@
    ```
 
 ---
-
-### **Optional Dependencies:**
-
-If you plan to extend the project with additional features, you might need:
-
-- **`matplotlib`:** For visualizing data (e.g., codon frequencies or pitch distributions).
-- **`scipy`:** For advanced mathematical operations.
-- **`pandas`:** For handling tabular data (e.g., codon frequency tables).
