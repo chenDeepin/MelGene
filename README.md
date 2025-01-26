@@ -1,3 +1,8 @@
+### **This script is used to transform the Gene data into Music notes. Have fun!**
+
+
+
+
 ### **Steps to Create the Conda Environment:**
 
 1. **Create the Environment:**
